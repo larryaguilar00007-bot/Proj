@@ -1,0 +1,7 @@
+C:\Users\A\larry\activity\activity\bin\Debug\activity.exe.config
+C:\Users\A\larry\activity\activity\bin\Debug\activity.exe
+C:\Users\A\larry\activity\activity\bin\Debug\activity.pdb
+C:\Users\A\larry\activity\activity\obj\Debug\activity.csproj.AssemblyReference.cache
+C:\Users\A\larry\activity\activity\obj\Debug\activity.csproj.CoreCompileInputs.cache
+C:\Users\A\larry\activity\activity\obj\Debug\activity.exe
+C:\Users\A\larry\activity\activity\obj\Debug\activity.pdb
